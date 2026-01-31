@@ -1,0 +1,43 @@
+{
+  "name": "TokyoNight Storm",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#7aa2f7",
+    "primary-color": "#7aa2f7",
+    "warning-color": "#f7768e",
+    "alert": "#e0af68",
+    "sidebar-color": "#1f2335",
+    "roomlist-background-color": "#24283b",
+    "roomlist-text-color": "#a9b1d6",
+    "roomlist-text-secondary-color": "#565f89",
+    "roomlist-highlights-color": "#2f3549",
+    "roomlist-separator-color": "#414868",
+    "timeline-background-color": "#24283b",
+    "timeline-text-color": "#a9b1d6",
+    "secondary-content": "#9aa5ce",
+    "tertiary-content": "#565f89",
+    "timeline-text-secondary-color": "#787c99",
+    "timeline-highlights-color": "#1f2335",
+    "reaction-row-button-selected-bg-color": "#3b4261",
+    "menu-selected-color": "#2f3549",
+    "focus-bg-color": "#3b4261",
+    "room-highlight-color": "#7dcfff",
+    "togglesw-off-color": "#444b6a",
+    "other-user-pill-bg-color": "#7dcfff",
+    "username-colors": [
+      "#bb9af7",
+      "#f7768e",
+      "#ff9e64",
+      "#9ece6a",
+      "#73daca",
+      "#b4f9f8",
+      "#2ac3de",
+      "#7aa2f7"
+    ],
+    "avatar-background-colors": [
+      "#7aa2f7",
+      "#bb9af7",
+      "#9ece6a"
+    ]
+  }
+}
