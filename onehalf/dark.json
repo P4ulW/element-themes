@@ -1,0 +1,43 @@
+{
+  "name": "One Half Dark",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#61afef",
+    "primary-color": "#61afef",
+    "warning-color": "#e06c75",
+    "alert": "#e5c07b",
+    "sidebar-color": "#21252b",
+    "roomlist-background-color": "#282c34",
+    "roomlist-text-color": "#dcdfe4",
+    "roomlist-text-secondary-color": "#828997",
+    "roomlist-highlights-color": "#313640",
+    "roomlist-separator-color": "#3e4451",
+    "timeline-background-color": "#282c34",
+    "timeline-text-color": "#dcdfe4",
+    "secondary-content": "#abb2bf",
+    "tertiary-content": "#5c6370",
+    "timeline-text-secondary-color": "#abb2bf",
+    "timeline-highlights-color": "#2c313a",
+    "reaction-row-button-selected-bg-color": "#3e4451",
+    "menu-selected-color": "#313640",
+    "focus-bg-color": "#3e4451",
+    "room-highlight-color": "#56b6c2",
+    "togglesw-off-color": "#5c6370",
+    "other-user-pill-bg-color": "#56b6c2",
+    "username-colors": [
+      "#61afef",
+      "#e06c75",
+      "#98c379",
+      "#e5c07b",
+      "#c678dd",
+      "#56b6c2",
+      "#d19a66",
+      "#61afef"
+    ],
+    "avatar-background-colors": [
+      "#61afef",
+      "#98c379",
+      "#c678dd"
+    ]
+  }
+}
